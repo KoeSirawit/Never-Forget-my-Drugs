@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7dfa49ed0e03412fe98fe657311e0fe219cafdd">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_98e3d552fa422959873098d8ced49d3630d798d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e4ce0f8b827e62bd59f5fbc04720954e1b730100\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_7fa3211f98481a19b17abe0aed5812deb1f35c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_4e82084812e87cb6da34b49bd7ee5cf65b7c9797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1fee189e9596cf6eb949ccc1d2a062e9420a57b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_ed361c262a95fb3aaa4fbfa1f5aaf158ac667a76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_3471f58369a63c1ccd8bf33fcf1882db5f12f92b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="642e92e81945f80f936f085d31e37725959edf17">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f779d4208732a252b2a5a80346a1000d0854db0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_88f11ba9057a20730092354216dfdb636ee957cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_09ea84a04eeb888a5b8f29e80e67da5d43c45b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_258832662c04f03e3e44f71150e9ca0c143015bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_c8e45a0710aecbe9477073afc4ef51329ebff3cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_2116e4d0721746ccf9e981991238ed206badbc5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4ee0d1a3ab374a5b418e6e51d66031ae7cd2a252\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_238d6864de37286d0991f9adc722c0575d2b4dc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_4866404cd7fd2ab2483e1fbf66db850e8148828f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_2d8c607512a623d68446b0dca0349731a9f91132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ef15ec988d366e6124d004fa9454885b9276af8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\RoKoKoe\AndroidStudioProjects\DontForgetMyDrugs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_87e7a851b17d113879be3ffc6fdc4920e6315cf6\classes.dex" />
+    </item>
+
+</items>
